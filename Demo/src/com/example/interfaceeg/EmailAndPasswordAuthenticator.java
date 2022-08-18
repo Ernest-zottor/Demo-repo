@@ -14,4 +14,8 @@ public class EmailAndPasswordAuthenticator implements Authenticate {
 	public void sayHello() {
 		System.out.println("hello all");
 	}
+	
+	public void printHello() {
+		System.out.println("hello everyone");
+	}
 }
